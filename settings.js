@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94761905764']
-global.premium = ['94761905764']
-global.ownernomer = '94767003520'
-global.ownername = 'Sandun Mihiranga'
+global.owner = ['94774702116']
+global.premium = ['94774702116']
+global.ownernomer = '94774702116'
+global.ownername = 'sasindu'
 global.botname = 'Queen Elina'
-global.footer = 'Saduwa Bot Inc.'
+global.footer = 'Sasindu Bot Inc.'
 global.ig = 'https://github.com/Sandun-Mihiranga2'
 global.region = 'Srilanka , Kurunegala'
 global.sc = 'https://github.com/Sandun-Mihiranga2/Queen-Elina'
 global.myweb = 'https://github.com/Sandun-Mihiranga2/Queen-Elina'
 global.packname = 'Queen-Elina'
-global.author = 'Sandun Mihiranga'
+global.author = 'Sasindu lakshan'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
